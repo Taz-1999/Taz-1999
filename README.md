@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taz-1999
 - 👀 I’m interested in open source projects for mac and linux.
-- 🌱 I’m currently learning react and shell scripting.
+- 🌱 I’m currently studying to become a Frontend developer.
 - 📫 How to reach me: github.com@mammals.se.
 
 <!---
