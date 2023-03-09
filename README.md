@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Taz-1999
+- 👋 Hi, I’m @Taz-1999, a frontend developer.
 - 👀 I’m interested in open source projects for mac and linux.
-- 🌱 I’m currently studying to become a Frontend developer.
-- 📫 How to reach me: github.com@mammals.se.
+- 📫 How to reach me: github.com@mammals.se or my webbsite: https://alltommig.nu/cv
+- 
 
 <!---
 Taz-1999/Taz-1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
