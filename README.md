@@ -1,3 +1,5 @@
+![Portofolio-header](https://raw.githubusercontent.com/Taz-1999/Taz-1999/main/portfolio.png)
+
 - 👋 Hi, I’m @Taz-1999, a frontend developer.
 - 👀 I’m interested in open source projects for mac and linux.
 - 📫 How to reach me: github.com@mammals.se or my webbsite: https://alltommig.nu/cv
